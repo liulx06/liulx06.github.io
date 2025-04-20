@@ -24,6 +24,11 @@ h3 {
 	font-family: 'Raleway', sans-serif;
 }
 
+p.bibitem {
+  margin: 20px;
+  text-indent: -20px;
+}
+
 /* Example: Use Pontano Sans for navbar */
 .navbar-brand, .nav > li > a {
 	font-family: 'Pontano Sans', sans-serif;
